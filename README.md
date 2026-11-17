@@ -4,7 +4,7 @@ Companion code repository for:
 >
 > Jake B. Hassan, Rosalba Perna, Mitchell C. Begelman, Yan-Fei Jiang, Matteo Cantiello, Philip J. Armitage, Taeho Ryu
 >
-> Submitted to ApJ
+> Submitted to ApJ ([arXiv:2611.03819](https://arxiv.org/abs/2611.03819))
 
 ## Overview
 
